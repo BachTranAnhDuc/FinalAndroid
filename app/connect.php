@@ -1,7 +1,7 @@
 <?php
 $server = "localhost";
 $username = "root";
-$password = "0982426291";
+$password = "";
 $database = "app_pos";
 
 // Create connection and Check connection
